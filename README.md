@@ -77,9 +77,3 @@ trading.log
 - This project uses Binance Testnet (no real trading involved)  
 - API keys must be added manually before running  
 - API keys are not included in this submission for security reasons  
-
----
-
-## Author
-
-Priyadharshini B
