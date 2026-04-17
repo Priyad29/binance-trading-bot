@@ -24,23 +24,6 @@ The application demonstrates basic trading operations along with structured code
 
 ---
 
-## Project Structure
-
-trading_bot/
-│
-├── bot/
-│   ├── client.py
-│   ├── orders.py
-│   ├── validators.py
-│   ├── logging_config.py
-│   ├── __init__.py
-│
-├── cli.py
-├── requirements.txt
-├── README.md
-
----
-
 ## Setup Instructions
 
 1. Install required dependencies:
